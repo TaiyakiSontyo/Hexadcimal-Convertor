@@ -31,7 +31,7 @@ Windows7,10,11での動作確認済みです。
 ```
 
 ## リンク一覧
-[Discord](https://discord.gg/wfmaUb92YX)
-[Twitter](https://twitter.com/TaiyakiSontyo)
-[YouTube](https://youtube.com/@taiyakisontyo)
+[Discord](https://discord.gg/wfmaUb92YX)\n
+[Twitter](https://twitter.com/TaiyakiSontyo)\n
+[YouTube](https://youtube.com/@taiyakisontyo)\n
 [GitHub](https://github.com/TaiyakiSontyo)
